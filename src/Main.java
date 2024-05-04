@@ -8,7 +8,7 @@ public class Main {
         while (true) {
             System.out.println("--CHƯƠNG TRÌNH QUẢN LÝ SINH VIÊN--");
             System.out.println("Chọn chức năng theo số:");
-            System.out.println("1. Xem danh sách sinh viên");
+            System.out.println("1. Xem danh sách sinh viên 2");
             System.out.println("2. Thêm mới");
             System.out.println("3. Cập nhật");
             System.out.println("4. Xóa");
